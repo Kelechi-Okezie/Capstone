@@ -1,7 +1,7 @@
 # Computer Vision Python Project
 ## Creating a Loose Change Calculator
 We are provided with a photograph of GBP coins ; 10p, 1p, 2p etc.
-We would write a python script that will be scan the image and label each coin with its value.
+We would write a python script that will scan the image and label each coin with its value.
 
 
 [capstone_coins.zip](https://github.com/user-attachments/files/15513768/capstone_coins.zip)

@@ -1,11 +1,8 @@
-# Building Conway's Game of Life in Python Project
-## Simulating Life's Complexity through Python's Simplicity
-In this Building Conway's Game of Life in Python project, you get to implement a simulation of the Game of Life, invented by mathematician John Horton Conway. It’s an excellent opportunity to apply your programming skills in Python while exploring fascinating concepts in cellular automata, emergence, and complexity theory.
+# Computer Vision Python Project
+## Creating a Loose Change Calculator
+We are provided with a photograph of GBP coins ; 10p, 1p, 2p etc.
+We would write a python script that will be scan the image and label each coin with its value.
 
-Conway’s Game of Life is a zero-player game requiring only an initial state and no further input. In its original setting, the game takes place on an infinite grid of square cells, each in one of two possible states: live or dead. Every cell interacts with its eight neighbors (horizontally, vertically, or diagonally adjacent cells). Starting at the initial state, the game evolves according to the following rules:
 
-Any live cell with two or three live neighbors survives. Otherwise, a cell dies due to loneliness (with no or only one neighbor) or overpopulation (with four or more neighbors).
-Any dead cell with (exactly) three live neighbors becomes a live cell. A dead cell with any other number of neighbors remains dead.
-In this project, we restrict the infinite grid to one with finite pre-defined dimensions.
-
-Despite its simplicity, the Game of Life has the power to create complex behaviors, which have implications for all fields—from physics and mathematics to philosophy and art.
+[capstone_coins.zip](https://github.com/user-attachments/files/15513768/capstone_coins.zip)
+![19 1 capstone_coins](https://github.com/Kelechi-Okezie/Capstone/assets/141277019/655c1b8e-313f-4c60-ad19-36e0e98563ca)
